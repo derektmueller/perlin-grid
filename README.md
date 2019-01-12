@@ -17,6 +17,4 @@ npm run webpack:dll
 npm run webpack:server
 ```
 
-![Alt Text](
-https://github.com/parenparen/raw/perlin-grid/example.png)
-
+![Alt Text](https://github.com/parenparen/perlin-grid/blob/master/example.png?raw=true)
